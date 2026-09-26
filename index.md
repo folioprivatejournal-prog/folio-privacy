@@ -32,4 +32,4 @@ Folio does not knowingly collect any information from anyone, including children
 If this policy ever changes, the new version will ship with the app update and be dated at the top.
 
 ## Contact
-Questions: samisalehfba26@gmail.com
+Questions: folioprivatejournal@gmail.com
