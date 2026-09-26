@@ -13,6 +13,9 @@ Everything you write stays on your device. Entries are encrypted with a key that
 ## Photos
 Photos you add to a page are copied into Folio, shrunk to page size, stripped of their location and camera details, and encrypted with the same key as your entries. Folio only ever receives the photos you pick — it uses the system photo picker and never reads your photo library. The camera is used only when you choose "Take Photo".
 
+## Video
+Video clips you add are re-encoded and stored inside Folio, encrypted with the same key as your entries. Only the clips you pick or record reach Folio; they never leave your device.
+
 ## Voice memos
 Voice memos you record are stored inside Folio, encrypted with the same key as your entries. The microphone is used only while you are recording, and recordings never leave your device.
 
