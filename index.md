@@ -22,6 +22,9 @@ Voice memos you record are stored inside Folio, encrypted with the same key as y
 ## Payments
 Folio Plus is sold through Apple's in-app purchase. Apple handles the payment and the subscription; Folio never sees your name, card or Apple ID. The app only learns whether a subscription is active.
 
+## Reminders, streaks and the widget
+If you turn on the daily reminder, Folio schedules a local notification on your device at the hour you chose. It says that your journal is waiting and how long your streak is — never what you wrote. Streaks and the home-screen widget are worked out from the *dates* you wrote on; that list of dates is the only journal information kept outside the encrypted store, and it stays on your device.
+
 ## Backups
 Your device's own backups (iCloud Backup or a computer backup) may include Folio's encrypted data, exactly as they include any other app's data. The entries stay encrypted inside that backup.
 
